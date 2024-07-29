@@ -1,0 +1,26 @@
+body {
+    font-size: .875rem;
+}
+
+.navbar-brand {
+    font-size: 1.25rem;
+}
+
+.container {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.bg-secondary {
+    background-color: #6c757d !important;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+img.img-thumbnail {
+    margin-top: 20px;
+}

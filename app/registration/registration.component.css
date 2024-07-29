@@ -1,0 +1,72 @@
+
+.registration-form {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+}
+.logo-image {
+    margin-top: 20px;
+    width: 60%;
+}
+.company-name {
+    margin-top: 30px;
+    font-size: xx-large;
+    font-weight: bold;
+}
+.company-data {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+}
+.underline {
+    padding-top: 80px;
+}
+.main-text {
+    text-align: center;
+    padding-top: 10px;
+    font-size: 45px;
+}
+.sub-text {
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+}
+.form-group {
+    grid-column: span 2;
+}
+.btn-primary {
+    background-color: #4a00e0;
+    color: white;
+    grid-column: span 2;
+}
+.text-muted {
+    grid-column: span 2;
+}
+.mt-3 {
+    margin-top: 1rem !important;
+}
+.login-link{
+    padding-top: 50px;
+    margin-left: 1000px;
+    
+}
+.login{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.form-row{
+    margin-top: 50px;
+    margin-left: 500px;
+
+}
+.btn{
+    margin-left: 500px;
+    margin-top: 20px;
+}
